@@ -1,0 +1,17 @@
+NB!!!
+cmd-> composer install
+src-AppBundle-Entity->delete project*.php
+php bin/console doctrine:generate:entity
+-> Enter
+AppBundle:...Project
+->Enter->Enter (info ProjectType.php)
+Title->text->Enter->Enter
+...
+Budget->Enter->integer->Enter->Enter
+...
+Empty Enter
+
+php bin/console doctrine:database:create --if-not-exists
+php bin/console doctrine:schema:update --force
+run-> Php Script-> bin/console ... server/run ... Single Instance Only
+

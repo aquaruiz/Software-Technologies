@@ -1,0 +1,23 @@
+﻿@model TODOList.Models.Task
+@{
+    ViewData["Title"] = "Details";
+    ViewBag.Title = "Details Task";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <h3>TODO List</h3>
+
+        @using (Html.BeginForm("Details", "Task", FormMethod.Post, new { @class = "form-inline" }))
+    {
+    @Html.AntiForgeryToken()
+
+    <input type="text" id="title" name="title" value="@Model.Title" class="form-control" />
+
+    <button type="reset" class="btn text-sentance" onclick="location.href='/';return false;">Cancel</button>
+}
+    </div>
+</div>

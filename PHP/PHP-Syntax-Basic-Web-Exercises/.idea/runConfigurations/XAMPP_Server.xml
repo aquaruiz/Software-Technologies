@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="XAMPP Server" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="XAMPP" start_url="/PHP-Syntax-Basic-Web-Exercises/">
+    <method />
+  </configuration>
+</component>

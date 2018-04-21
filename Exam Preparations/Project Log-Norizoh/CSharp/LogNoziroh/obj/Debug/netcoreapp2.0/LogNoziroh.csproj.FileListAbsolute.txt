@@ -1,0 +1,11 @@
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.deps.json
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.runtimeconfig.json
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.runtimeconfig.dev.json
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.dll
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.pdb
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.csprojResolveAssemblyReference.cache
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.csproj.CoreCompileInputs.cache
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.AssemblyInfoInputs.cache
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.AssemblyInfo.cs
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.dll
+D:\Web Pages\Project Log-Norizoh\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.pdb

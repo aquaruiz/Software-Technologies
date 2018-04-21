@@ -1,0 +1,11 @@
+open-> npm install
+Shift+Shift->todo
+First->Model Second->Controllers!
+database name: config->config.json
+database table columns in models->project.js ... write entities
+http://docs.sequelizejs.com/manual/tutorial/instances.html
+run: Edit Configuration->+->Node.js->JavaScript File: bin/www->name it->Ok
+Heidi->set DataBase->create new database->name....+UTF8_general_ci
+listening on port -> check it  http://localhost:8000/
+First->Model Second->Controllers!
+Done!

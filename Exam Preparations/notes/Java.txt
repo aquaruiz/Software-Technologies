@@ -1,0 +1,10 @@
+Import Project->Maven->JDK 1.8
+Shift+Shift->todo
+First Entity Second BindingModel Third Controllers
+In Entity Alt+Ins 2 pcs. Contructors + Getters and Setters
+BindingModel copy+paste from entity without @s
+In BindingModel Alt+Ins Getters and Setters
+In BindingModel Alt+Ins 2 pcs. Contructors?
+In Controller...
+Done!
+

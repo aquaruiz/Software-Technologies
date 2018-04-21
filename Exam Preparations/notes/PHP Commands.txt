@@ -1,0 +1,7 @@
+composer install
+
+php bin/console server:run
+
+php bin/console doctrine:generate:entity
+
+php bin/console doctrine:schema:update --force

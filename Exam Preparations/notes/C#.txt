@@ -1,0 +1,5 @@
+Build    Ctrl+Shift+B
+Run      Ctrl+Fn+F5
+view-> Task List
+OR Ctrl + //  / + T
+Done!:)
